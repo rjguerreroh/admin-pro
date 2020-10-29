@@ -14,6 +14,7 @@ export class LoginComponent implements OnInit {
   }
 
   login(){
+    // metodo login
     this.router.navigateByUrl('/');
   }
 
